@@ -9,3 +9,4 @@ link to the blog post: https://medium.com/@b.a.s.sampath/popular-airbnb-neighbor
 the repository has other projects as well
 1. EQUAL WEIGHT SP500 Portfolio
 2.Predicting Stock Price using LSTM approach
+3.findding kurtosis of SPY
